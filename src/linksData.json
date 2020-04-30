@@ -1,0 +1,37 @@
+[
+  {
+    "group": "Kubernetes",
+    "links": [
+      {
+        "name": "Руководство по Kubernetes, часть 1: приложения, микросервисы и контейнеры",
+        "link": "https://habr.com/ru/company/ruvds/blog/438982/"
+      },
+      {
+        "name": "Руководство по Kubernetes, часть 2: создание кластера и работа с ним",
+        "link": "https://habr.com/ru/company/ruvds/blog/438984/"
+      }
+    ]
+  },
+  {
+    "group": "Nestjs",
+    "links": [
+      {
+        "name": "Documentation | NestJS - A progressive Node.js framework",
+        "link": "https://docs.nestjs.com/"
+      },
+      {
+        "name": "GitHub - juliandavidmr/awesome-nestjs: \uD83D\uDE0F Curated list of NestJS",
+        "link": "https://github.com/juliandavidmr/awesome-nestjs"
+      }
+    ]
+  },
+  {
+    "group": "Other",
+    "links": [
+      {
+        "name": "How to deploy your React app into Github Pages",
+        "link": "https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e"
+      }
+    ]
+  }
+]
