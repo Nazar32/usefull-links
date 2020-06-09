@@ -18,6 +18,9 @@ jobs:
     - uses: actions/checkout@v2
     - uses: oleksiyrudenko/gha-git-credentials@v1
       with:
+        name: 'Nazar Melnyk'
+        email: 'nazar3223@gmail.com'
+        actor: 'Nazar3223'
         token: '${{ secrets.GITHUB_TOKEN }}'
 
     - name: Install packages
