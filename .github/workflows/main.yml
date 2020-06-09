@@ -25,8 +25,7 @@ jobs:
     - name: setup-git-credentials
       uses: fusion-engineering/setup-git-credentials@v2.0.1
       with:
-        # git credentials use
-        credentials: true
+        credentials: ${{secrets.GIT_CREDENTIALS}}
 
     - name: Install packages
       run: yarn
