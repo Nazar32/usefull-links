@@ -15,10 +15,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: Configure git credentials
-      uses: OleksiyRudenko/gha-git-credentials@v1
-
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
+    - uses: oleksiyrudenko/gha-git-credentials@v1
+      with:
+        token: '${{ secrets.GITHUB_TOKEN }}'
 
     - name: Install packages
       run: yarn
