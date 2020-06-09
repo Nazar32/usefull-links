@@ -15,9 +15,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: fusion-engineering/setup-git-credentials@v2
-      with:
-        credentials: ${{secrets.GIT_CREDENTIALS}}
+    - name: Configure git credentials
+      uses: OleksiyRudenko/gha-git-credentials@v1
+
     - uses: actions/checkout@v1
 
     - name: Install packages
