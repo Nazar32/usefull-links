@@ -22,7 +22,7 @@ jobs:
         email: 'nazar3223@gmail.com'
         actor: 'Nazar3223'
         token: '${{ secrets.ACCESS_TOKEN }}'
-    - run: echo token is ${{ secrets.ACCESS_TOKEN }}
+    - run: echo token is ${ secrets.ACCESS_TOKEN }
             
     - name: Install packages
       run: yarn
