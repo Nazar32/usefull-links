@@ -21,7 +21,7 @@ jobs:
         name: 'Nazar Melnyk'
         email: 'nazar3223@gmail.com'
         actor: 'Nazar3223'
-        token: ${{ secrets.ACCESS_TOKEN }}
+        token: '${{ secrets.ACCESS_TOKEN }}'
 
     - name: Install packages
       run: yarn
