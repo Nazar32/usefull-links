@@ -44,6 +44,10 @@
       {
         "name": "How to deploy your React app into Github Pages",
         "link": "https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e"
+      },
+      {
+        "name": "Postgres Don`t do this",
+        "link": "https://wiki.postgresql.org/wiki/Don't_Do_This"
       }
     ]
   }
