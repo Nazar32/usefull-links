@@ -41,6 +41,10 @@
   {
     "group": "Node",
     "links": [
+  {
+    "name": "Node best practices",
+    "link": "https://github.com/goldbergyoni/nodebestpractices"
+  },
       {
         "name": "Node js interview questions",
         "link": "https://dev.to/fullstackcafe/7-hardest-nodejs-interview-questions--answers-3lje"
