@@ -44,6 +44,10 @@
       {
         "name": "Node js interview questions",
         "link": "https://dev.to/fullstackcafe/7-hardest-nodejs-interview-questions--answers-3lje"
+      },
+      {
+        "name": "Event loop explained",
+        "link": "https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/"
       }
     ]
   },
