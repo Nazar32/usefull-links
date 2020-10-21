@@ -48,6 +48,10 @@
       {
         "name": "Event loop explained",
         "link": "https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/"
+      },
+      {
+        "name": "Blocking vs non blocking",
+        "link": "https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/"
       }
     ]
   },
