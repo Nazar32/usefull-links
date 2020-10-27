@@ -69,6 +69,10 @@
       {
         "name": "Postgres Don`t do this",
         "link": "https://wiki.postgresql.org/wiki/Don't_Do_This"
+      },
+      {
+        "name": "Let's Encrypt и nginx: настройка в Debian и Ubuntu",
+        "link": "https://habr.com/ru/post/318952/"
       }
     ]
   }
