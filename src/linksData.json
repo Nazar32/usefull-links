@@ -73,6 +73,10 @@
       {
         "name": "Let's Encrypt и nginx: настройка в Debian и Ubuntu",
         "link": "https://habr.com/ru/post/318952/"
+      },
+      {
+        "name": "mongodb not authorized on admin to execute command",
+        "link": "https://stackoverflow.com/a/29472184/8689619"
       }
     ]
   }
