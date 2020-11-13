@@ -75,6 +75,10 @@
         "link": "https://habr.com/ru/post/318952/"
       },
       {
+        "name": "Nginx and Let’s Encrypt with Docker in Less Than 5 Minutes",
+        "link": "https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71"
+      },
+      {
         "name": "mongodb not authorized on admin to execute command",
         "link": "https://stackoverflow.com/a/29472184/8689619"
       }
